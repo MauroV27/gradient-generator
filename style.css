@@ -1,0 +1,41 @@
+body{
+    padding: 0;
+    background: #eee;
+}
+
+.input-controller{
+    margin: auto;
+    margin-top: 40px;
+    width: 250px;
+    border: 1px solid black;
+    padding: 20px 30px;
+}
+
+.input-controller input[type=color]{
+    border: none;
+    vertical-align: middle;
+    margin-bottom: 2px;
+}
+
+.input-controller input[type=text]{
+    width: 50px;
+}
+
+.input-controller input[name=inp-num]{
+    margin: 3px auto;
+}
+
+.input-controller button{
+    margin: 3px auto;
+}
+
+.block{
+    margin: auto;
+    width: 200px;
+    padding: 8px;
+}
+
+.gradient-generate{
+    margin: 40px auto;
+    text-align: center;
+}
